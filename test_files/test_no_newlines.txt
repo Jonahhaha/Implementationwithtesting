@@ -1,0 +1,1 @@
+This is a test file that has no newlines. It is a single line.
