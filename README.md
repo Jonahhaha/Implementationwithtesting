@@ -1,9 +1,9 @@
 # CSCI5801_Group9_P4_ImplementationAndTesting
-A shared git repo for group 9 Project Part 4 **and part 5** in the fall 2022 offering of CSCI5801 at the University of Minnesota, Twin Cities.
+**and part 5** in the fall 2022 offering of CSCI5801 at the University of Minnesota, Twin Cities.
 
 # Files
 ## Included on the GitHub:
-### [Root](https://github.umn.edu/hultm053/CSCI5801_Group9_P4_ImplementationAndTesting):
+### [Root](https://github.com/Jonahhaha/Implementationwithtesting):
 main.py = Used for product evidence, previously used for debugging (still is moderately).
 
 source_and_representations.py = Contains classes for the FileData as well as the associated methods/functions.
@@ -13,7 +13,7 @@ class_types.py = new for P5, houses interface for mapping to correct question ty
 multiple_choice.py = Multiple choice generation, printing outputs, etc. was moved from class_types.py to here in order to facilitate development and avoid merge conflicts.
 
 README = .pdf is included for Canvas submission, .md is used by GITHUB.
-NOTE = GITHUB Repo has been shared with TAs as collaborators, availble [here](https://github.umn.edu/hultm053/CSCI5801_Group9_P4_ImplementationAndTesting/).
+NOTE = GITHUB Repo has been shared with TAs as collaborators, availble [here](https://github.com/Jonahhaha/Implementationwithtesting?tab=readme-ov-file).
 
 test_for_FileData.py = Unit tests for the FileData class.
 
@@ -33,7 +33,7 @@ test_for_ReorderQuestion.py = Test code for testing the ReorderQuestion object h
 test_for_fillinBlank.py = Test code for testing the FillInBlank object housed in class_types.py.
 
 ### [test_files](https://github.umn.edu/hultm053/CSCI5801_Group9_P4_ImplementationAndTesting/tree/main/test_files):
-Directory of various test files, including files with various programming lanuages file types. Main test file used from here has been [testCodeFile.py](https://github.umn.edu/hultm053/CSCI5801_Group9_P4_ImplementationAndTesting/blob/main/test_files/testCodeFile.py). When interacting with main.py, files must be within this directory.
+Directory of various test files, including files with various programming lanuages file types. Main test file used from here has been [testCodeFile.py](https://github.com/Jonahhaha/Implementationwithtesting/blob/main/test_files/testCodeFile.py). When interacting with main.py, files must be within this directory.
 
 
 ## Other files included with the submission:
@@ -58,7 +58,7 @@ productEvidence = Video evidence of a teammates roommate functioning as the "use
 Includes meeting notes for each of the 6 required meetings for P5 of the project. These include the sprint planning, the three scrums, the sprint review, and the sprint retrospective. 
 
 # Building the Code
-All of the files listed above should be included in the same zipped directory. The directory should be pullled down and unzipped in a convenient location for the user, which has access to Python either through a path or root. The implementation was done using Python 3, so it should run on lab machines out of the box with little set up. Additionally, since this is built on an interpreter, there is little build time, at the expense of run time. Lastly, to try to simplify the process for the TAs, they have been added to [the private github repostiory](https://github.umn.edu/hultm053/CSCI5801_Group9_P4_ImplementationAndTesting/) as collaborators. 
+All of the files listed above should be included in the same zipped directory. The directory should be pullled down and unzipped in a convenient location for the user, which has access to Python either through a path or root. The implementation was done using Python 3, so it should run on lab machines out of the box with little set up. Additionally, since this is built on an interpreter, there is little build time, at the expense of run time. 
 
 # Executing the Code
 In order to execute the code, navigate to the directory within the terminal/command line. If you would like to test the functionality of the system, main.py has been adjusted to allow a simple implementation of a user interface.
