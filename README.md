@@ -1,5 +1,9 @@
 # CSCI5801_Group9_P4_ImplementationAndTesting
 **and part 5** in the fall 2022 offering of CSCI5801 at the University of Minnesota, Twin Cities.
+(This is a four people team, Team 9: Jonah Shi, Brody Hultman, Yoshitaka Inoue, Demetrious Kutzke) After getting permission, I put this project on this github.
+
+**Jonah is focusing more on the writing different test file (Unit test and integration test) and also writing the code which implementing how to use the test files to the users. 
+All the other parts, Group 9 works on together to write code and document all the versions.**
 
 # Files
 ## Included on the GitHub:
